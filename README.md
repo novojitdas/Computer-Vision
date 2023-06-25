@@ -14,6 +14,9 @@
 | Drawing On Images | [Live Demo](https://colab.research.google.com/drive/1rl7Bus1HU5rJopL-2_EtnpsrPeOcdv_H?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/02_opencv_drawing.ipynb)
 | Drawing on Images with Mouse | [Live Demo](https://colab.research.google.com/drive/1TK80ZqHpCXbkfiIaqGVlSSnUNC9Sv2_Q?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/03_image_and_mouse.ipynb)
 | Image Processing | [Live Demo](https://colab.research.google.com/drive/1qkehxPKqt6GyDgW0FRL_FhJ6IVGgJk7r?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/04_image_processing.ipynb)
+| Video Basics | [Live Demo](https://colab.research.google.com/drive/16f6CD9YEqLnIzBph1gMMdaJ9SYFDgNte?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/05_video_basics.ipynb) 
+
+
 
  
 ### How to run this file on Jupyter Lab
