@@ -16,6 +16,7 @@
 | Image Processing | [Live Demo](https://colab.research.google.com/drive/1qkehxPKqt6GyDgW0FRL_FhJ6IVGgJk7r?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/04_image_processing.ipynb)
 | Video Basics | [Live Demo]() | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/05_video_basics.ipynb)
 | KNN Image Classifier | [Live Demo](https://colab.research.google.com/drive/14xZvpC_gXRiV22DEnWpg_bv56ZoFXKqf?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/colab/kaggle_knn.ipynb) 
+| Linear Image Classifier | [Live Demo](https://colab.research.google.com/drive/11MrcAOu9EznuGmuEgBHpgGJ2wS5XPxDp?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/colab/linear_classifier.ipynb) 
 
 
 
