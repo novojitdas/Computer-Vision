@@ -19,21 +19,15 @@
 | Linear Image Classifier | [Live Demo](https://colab.research.google.com/drive/11MrcAOu9EznuGmuEgBHpgGJ2wS5XPxDp?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/colab/linear_classifier.ipynb) 
 | Optimization | [Live Demo](https://colab.research.google.com/drive/1-eQunB_H7w-KFdEKrloihplY3qM_RAce?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/colab/Optimization.ipynb)
 
-
-
-
-
-
-
  
 ### How to run this file on Jupyter Lab
 
 
-* Goto the directory where is your file
-* use `cd C: FILE/PATH/` in the Anaconda Prompt to enter in a directory 
-* use `cd..` to return to the previous directory 
+* Goto the directory where is your file.
+* use `cd C: FILE/PATH/` in the Anaconda Prompt to enter in a directory.
+* use `cd..` to return to the previous directory.
 * write `conda activate python-cvcourse` 
-* later write `jupyter-lab` in the cli 
+* later write `jupyter-lab` in the cli.
 * paste server token link from cli to browser to access server.
 
 ### Jupyter Lab ShortCuts
