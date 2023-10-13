@@ -18,6 +18,8 @@
 | KNN Image Classifier | [Live Demo](https://colab.research.google.com/drive/14xZvpC_gXRiV22DEnWpg_bv56ZoFXKqf?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/colab/kaggle_knn.ipynb) 
 | Linear Image Classifier | [Live Demo](https://colab.research.google.com/drive/11MrcAOu9EznuGmuEgBHpgGJ2wS5XPxDp?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/colab/linear_classifier.ipynb) 
 | Optimization | [Live Demo](https://colab.research.google.com/drive/1-eQunB_H7w-KFdEKrloihplY3qM_RAce?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/colab/Optimization.ipynb)
+| Neural Network | [Live Demo](https://colab.research.google.com/drive/1fQDWsBBKkpntygZ__8ZChun8NRp-Ym78?usp=sharing) | [Link](https://github.com/novojitdas/Computer-Vision/blob/main/colab/Neural_Network.ipynb)
+
 
  
 ### How to run this file on Jupyter Lab
